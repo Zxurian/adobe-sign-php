@@ -1,0 +1,25 @@
+{
+  "name": "zxurian/adobe-sign-php",
+  "description": "Adobe Sign PHP Client",
+  "require": {
+    "php": ">=5.5.0",
+    "kevinem/oauth2-adobe-sign": "^0.1.4"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^5.4",
+    "mockery/mockery": "^0.9.5",
+    "mikey179/vfsStream": "^1.6"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Zxurian",
+      "email": "zxurian@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Zxurian\\AdobeSign\\": "src/"
+    }
+  },
+}
