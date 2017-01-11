@@ -2,8 +2,7 @@
 
 https://acrobat.adobe.com/us/en/sign.html
 
-[![Latest Stable Version](https://poser.pugx.org/Zxurian/adobe-sign-php/v/stable?format=flat-square)](https://packagist.org/packages/Zxurian/adobe-sign-php)
-[![License](https://poser.pugx.org/Zxurian/adobe-sign-php/license?format=flat-square)](https://packagist.org/packages/Zxurian/adobe-sign-php)
+Fork of https://github.com/kevinem/adobe-sign-php with changes made to structure and handling
 
 ## Installation
 
@@ -74,7 +73,7 @@ if (!isset($_GET['code'])) {
 ## License 
 
 The MIT License (MIT)
-Copyright (c) 2016 Kevin Em
+Copyright (c) 2016 Zxurian
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
 documentation files (the "Software"), to deal in the Software without restriction, including without limitation
